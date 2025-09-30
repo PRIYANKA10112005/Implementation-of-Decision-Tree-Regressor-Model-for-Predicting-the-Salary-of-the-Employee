@@ -17,8 +17,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ```
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: HIRUTHIK SUDHAKAR
-RegisterNumber: 212223240054
+Developed by: PRIYANKA P
+RegisterNumber: 212224230212
 */
 ```
 ```python
@@ -61,24 +61,25 @@ dt.predict([[5,6]])
 ```
 ## Output:
 ### Data Head:
-![image](https://github.com/HIRU-VIRU/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145972122/b2f6f2eb-1e0c-4fbb-8784-4a8bd706c979)
+<img width="390" height="265" alt="image" src="https://github.com/user-attachments/assets/9202edb8-eca6-46f4-bba2-975d270ab530" />
 ### Data Info:
-![image](https://github.com/HIRU-VIRU/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145972122/7c13b486-2ad5-4e1f-82f6-48d7f77e2649)
+<img width="603" height="237" alt="image" src="https://github.com/user-attachments/assets/6d14eecf-7275-4dce-81fe-f08583badc37" />
 
 ### isnull() sum():
-![image](https://github.com/HIRU-VIRU/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145972122/3a21fac0-df89-4aaf-827f-bc00aa3f0286)
+<img width="201" height="88" alt="image" src="https://github.com/user-attachments/assets/6d4eb105-52bd-474b-b649-83e045ae8421" />
+
 ### Data Head for salary:
-![image](https://github.com/HIRU-VIRU/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145972122/0a79abfa-f32d-4394-a73d-47161eaeec30)
+<img width="323" height="234" alt="image" src="https://github.com/user-attachments/assets/528f5442-f02b-4cff-ad0e-45baeb18d366" />
 
 ### Mean Squared Error :
-![image](https://github.com/HIRU-VIRU/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145972122/3c7acf12-adb7-4a3f-807e-cb49ad260032)
+<img width="239" height="38" alt="image" src="https://github.com/user-attachments/assets/5b336de8-b10d-4ddf-8d9c-a350ddaf8c7a" />
 
 ### r2 Value:
-![image](https://github.com/HIRU-VIRU/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145972122/e6f5cab9-dab9-4c69-bb0e-6fa0abee1da0)
+<img width="1065" height="41" alt="image" src="https://github.com/user-attachments/assets/93946697-671b-4428-a33c-91392f12eddd" />
 
 ### Data prediction :
 
-![image](https://github.com/HIRU-VIRU/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/145972122/92b5c1d6-e495-4eaa-9a9a-8eb3a37ae0bc)
+<img width="311" height="38" alt="image" src="https://github.com/user-attachments/assets/d816b4a7-c1bf-43af-b32f-25e8497f5adf" />
 
 
 ## Result:
